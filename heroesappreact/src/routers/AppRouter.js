@@ -14,7 +14,7 @@ export const AppRouter = () => {
     return (
         <Router>
             <div>
-                {/* <Navbar /> */}
+
 
                 <Switch>
                     <Route exact path="/login" component={LoginScreen} />
